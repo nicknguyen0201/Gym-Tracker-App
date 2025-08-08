@@ -75,6 +75,8 @@ Social & Sharing
 
 [Wireframe]
 <img src="Screenshot_20250805_130909_OneNote.jpg" width=600>
+
+
 [LOOM VIDEO](https://www.loom.com/share/ae801053bf4042529209cc26a43b9c41?sid=20c02443-7649-493a-9b14-c8c75b75c15e)
 
 ### [BONUS] Digital Wireframes & Mockups
