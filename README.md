@@ -14,8 +14,6 @@
 An iOS app that tracks your workout sets, reps, what workout you do that day like legs/arms/chest/back day
 
 ### App Evaluation
-
-[Evaluation of your app across the following attributes]
 - **Category:** Health & Fitness
 - **Mobile:** Mobile is important because people can carry their phone to the gym and record their work instantly
 - **Story:** Allow user to keep track of their workout and see their improvements
@@ -29,36 +27,33 @@ An iOS app that tracks your workout sets, reps, what workout you do that day lik
 
 **Required Must-have Stories**
 
-
-####Workout Logging
-- As a user, I want to create a new workout session so that I can start recording my exercises for the day.
-- As a user, I want to add an exercise to my session (e.g. Bench Press, Squat) so that I can specify what I’m working on.
-- As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
-- As a user, I want to view a summary of today’s session (total sets, reps, volume) so that I can see how much I’ve done at a glance.
-- As a user, I want to edit or delete a recorded set in case I made a mistake or want to correct my log.
-Session Management
-- As a user, I want to name or tag each session (e.g. “Leg Day”, “Chest & Triceps”) so I can easily find and differentiate past workouts. 
-- As a user, I want to view a list of my past workout sessions so that I can review my history.
-####Data Persistence & Sync
--As a user, I want my workout data to persist across app launches so that I never lose my logs.
+### Session Management
+[x] As a user, I want to pick a session (e.g. “Leg Day”, “Chest & Triceps”) so I can go to that day exercises.
+[] As a user, I want to view a list of my past workout sessions so that I can review my history.
+### Workout Logging
+[] As a user, I want to create a new workout session so that I can start recording my exercises for the day.
+[] As a user, I want to record sets and reps (and optionally weight) for each exercise so that I can track my progress accurately.
+[] As a user, I want to view a summary of today’s session (total sets, reps, volume) so that I can see how much I’ve done at a glance.
+[] As a user, I want to edit or delete a recorded set in case I made a mistake or want to correct my log.
+### Data Persistence & Sync
+[] As a user, I want my workout data to persist across app launches so that I never lose my logs.
 
 **Optional Nice-to-have Stories**
-
-- Progress Visualization: As a user, I want to see charts of my volume, max weight, and rep count over time so that I can visualize my progress.
-- Notifications & Reminders: As a user, I want to get reminder of going to the gym as well as what plan should I be doing today
+[] Progress Visualization: As a user, I want to see charts of my volume, max weight, and rep count over time so that I can visualize my progress.
+[] Notifications & Reminders: As a user, I want to get reminder of going to the gym as well as what plan should I be doing today
 Social & Sharing
-- As a user, I want to share a summary of my workout to social media or messaging apps so that I can celebrate milestones.
+
 
 
 ### 2. Screen Archetypes
 
-- [ ] [Workout plans menu]
+[x] [Workout plans menu]
 * As a user, I want to choose what I will be working on today, like legs, arms, etc
 * ...
-[] [Options for excercises to do on that day]
+[x] [Options for excercises to do on that day]
 * As a user, I want to start working on the excercises I have for this day like bench press on chest day
-* ...
-
+[x] [log how many reps]
+* As a user, I want to log how many reps I did
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -69,17 +64,18 @@ Social & Sharing
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [Workout Plan Menu]
+[x] [Workout Plan Menu]
 * Go to detailed excercises menu
-* ...
-- [ ] [Detailed excercises]
-* Go to counter to record reps
-* ...
 
+[x] [Detailed excercises]
+* Go to counter to record reps
+
+[ ] [Reps logging]
 ## Wireframes
 
 [Wireframe]
 <img src="Screenshot_20250805_130909_OneNote.jpg" width=600>
+[LOOM VIDEO](https://www.loom.com/share/ae801053bf4042529209cc26a43b9c41?sid=20c02443-7649-493a-9b14-c8c75b75c15e)
 
 ### [BONUS] Digital Wireframes & Mockups
 
